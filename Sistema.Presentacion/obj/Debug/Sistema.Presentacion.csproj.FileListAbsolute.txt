@@ -1,0 +1,28 @@
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.MdiMenu.resources
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.MdiMenu.resources
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema..85659DAB.Up2Date
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\clase practica\practica\OperacionesCRUD\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb

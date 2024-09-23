@@ -1,0 +1,12 @@
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.AssemblyReference.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.AssemblyReference.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb

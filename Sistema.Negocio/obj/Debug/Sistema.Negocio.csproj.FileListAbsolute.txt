@@ -1,0 +1,22 @@
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Entidad.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Entidad.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema..0C9D8B9E.Up2Date
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Entidad.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\bin\Debug\Sistema.Entidad.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema..0C9D8B9E.Up2Date
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb

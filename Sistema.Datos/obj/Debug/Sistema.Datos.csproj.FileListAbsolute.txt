@@ -1,0 +1,18 @@
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\bin\Debug\Sistema.Entidad.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\bin\Debug\Sistema.Entidad.pdb
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema..9F9C34FB.Up2Date
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Programacion\C#\Desarrollo Aplicaciones III\Sabatino\ClasePractica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\bin\Debug\Sistema.Entidad.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\bin\Debug\Sistema.Entidad.pdb
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema..9F9C34FB.Up2Date
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\clase practica\practica\OperacionesCRUD\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
